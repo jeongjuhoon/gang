@@ -1,0 +1,4 @@
+@-webkit-keyframes clh { 0%{margin-top: -300px;} 50%{margin-top:-330px;} 100%{margin-top:-300px;} }
+.clheart {animation-name: clh; animation-duration: 5s; animation-timing-function: ease-in; animation-iteration-count: infinite; }
+
+g{position: absolute;}
